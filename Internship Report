@@ -1,1 +1,67 @@
+Internship Report
 
+Introduction
+
+This report summarizes my learnings and work completed during the Twitter Analytics Dashboard Internship using Power BI. The primary objective of the project was to develop data-driven insights from Twitter engagement metrics, visualized through interactive dashboards.
+
+Background
+
+With the growing importance of social media analytics, this internship focused on leveraging Power BI to track engagement trends and improve decision-making based on real-time Twitter data.
+
+Learning Objectives
+
+Understand data cleaning and preprocessing techniques in Power BI.
+
+Develop visualizations to analyze Twitter engagement metrics.
+
+Implement filters and calculated measures to enhance dashboard functionality.
+
+Gain hands-on experience with DAX functions and data modeling.
+
+Activities and Tasks
+
+The key tasks completed include:
+
+Pie Chart for Click Proportion – Showcased URL clicks, user profile clicks, and hashtag clicks for tweets with 500+ impressions.
+
+Clustered Bar Chart for Click Distribution – Analyzed URL clicks, user profile clicks, and hashtag clicks based on tweet categories.
+
+Line Chart for Engagement Rate Trends – Compared tweets with media and without media while applying time-based and data filters.
+
+Skills and Competencies
+
+Power BI Development: Implemented various data visualization techniques.
+
+Data Filtering & DAX Expressions: Used measures and calculated columns to manipulate datasets.
+
+Dynamic Dashboarding: Applied conditional visibility for charts based on time constraints.
+
+Data Cleaning: Processed raw Twitter data for meaningful insights.
+
+Feedback and Evidence
+
+Successfully implemented the required tasks with correct data filters.
+
+Created engaging visuals and reports for analyzing Twitter interactions.
+
+Ensured dashboard usability and efficiency.
+
+Challenges and Solutions
+
+Complex Filtering Requirements: Overcame difficulties in implementing time-bound visualizations by using DAX and Power BI conditional filters.
+
+Performance Optimization: Improved dashboard efficiency by reducing redundant calculations and using optimized measures.
+
+Data Cleaning Issues: Handled inconsistent tweet data by implementing character filtering and word-based exclusions.
+
+Outcomes and Impact
+
+Built a fully functional Power BI dashboard that provides actionable insights into Twitter engagement.
+
+Developed expertise in data visualization, filtering techniques, and report automation.
+
+Strengthened my problem-solving skills in handling real-world data challenges.
+
+Conclusion
+
+This internship has been a valuable learning experience, helping me develop both technical and analytical skills in Power BI. The project improved my ability to extract meaningful insights from social media data, enhancing my data analytics and visualization expertise. I look forward to applying these learnings in future projects.
